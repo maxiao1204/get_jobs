@@ -35,6 +35,7 @@ liepin:
   keywords: [ "Java" ]
   salary: "26$40" # 填 15$30 代表 15k-30k
   pubTime: "30" # 发布时间，单位天
+  containsJobName: ["java", "JAVA", "Java"]
 #
 #zhilian:
 #  cityCode: "上海"
